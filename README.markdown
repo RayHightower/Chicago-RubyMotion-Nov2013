@@ -4,3 +4,5 @@ This directory contains code examples during my presentation at the [Chicago Rub
 
 All examples were created using [RubyMotion](http://rubymotion.com) version 2.14.
 
+Additional details can be found in the blog article titled *Using RubyMotion to Build Something Useful* which will be posted at [RayHightower.com](http://rayhightower.com) after the presentation.
+
