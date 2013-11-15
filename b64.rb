@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 require 'base64'
 
-File.open('./rubymotion.png', 'r') do|image_file|
+File.open('./rubymotion-sm.png', 'r') do|image_file|
   puts Base64.encode64(image_file.read)
 end
 
