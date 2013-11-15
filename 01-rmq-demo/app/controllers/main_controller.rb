@@ -13,7 +13,7 @@ class MainController < UIViewController
   end
 
   def init_nav
-    self.title = 'Title Here'
+    self.title = 'RMQ Sample App'
 
     self.navigationItem.tap do |nav|
       nav.leftBarButtonItem = UIBarButtonItem.alloc.initWithBarButtonSystemItem(UIBarButtonSystemItemAction,
