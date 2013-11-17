@@ -9,8 +9,7 @@ Additional details can be found in the blog article titled *Using RubyMotion to 
 ####File & Directory Descriptions
 
 * `10-rmq-demo` - demo app for RMQ.
-* `b64.rb` - utility for converting .png image files into base64.
-  Necessary for the rubymotionleap program
+* `b64.rb` - utility for converting .png image files into base64.  Necessary for the rubymotionleap program
 * `rubymotion-sm.png` - RubyMotion logo w/transparent background
 * `rubymotion-sm.html` - base64 equivalent of `rubymotion-sm.png`
 
